@@ -1,11 +1,17 @@
 # Data Visualization: Superstore Sales Analysis
-Tools Used
+
+
+#Tools Used
 Tableau Public
-Visuals Created
+
+
+#Visuals Created
 Sales Trend Over Time
 Sales by Category and Sub-Category
 Profit by Region
-Key Insights
+
+
+#Key Insights
 Technology is the most profitable category.
 The South region has high sales but low profits.
 
